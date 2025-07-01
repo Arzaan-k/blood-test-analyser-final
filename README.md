@@ -230,11 +230,6 @@ PRs welcome! Please:
 
 ---
 
-## 📝 License
-
-MIT © 2025 Arzaan-k
-
-> **Disclaimer:** Not a substitute for professional medical advice. Always consult a qualified physician.
 
 
 * Python 3.11+
